@@ -1,5 +1,5 @@
 # OPRPP1
-Code showing implementations of Java projects for kolekij Odabrana poglavlja razvoja programske potpore 1 (Čupićeva java)
+Code showing implementations of Java projects for kolekij Odabrana poglavlja razvoja programske potpore 1 (Čupićeva java) (2021./2022.)
 Files are placed in separate folders, for each homework one folder.
 Folders consist of tasks:
 
