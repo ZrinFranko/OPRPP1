@@ -1,0 +1,17 @@
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/ParserException.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/FieldValueGetters.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/IComparisonOperator.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/IFilter.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/ComparisonOperators.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/QueryLexerException.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/StudentDatabase.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/QueryTokenType.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/StudentDB.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/QueryFilter.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/ConditionalExpression.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/QueryParser.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/RecordFormatter.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/QueryLexer.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/StudentRecord.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/QueryToken.java
+/home/zrin/Documents/OPRPP1/hw04-0036515289/src/main/java/hr/fer/oprpp1/hw04/db/IFieldValueGetter.java
